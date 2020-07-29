@@ -301,7 +301,7 @@ const randomWrongID = wrongAnswerIds[Math.floor(Math.random() * wrongAnswerIds.l
             // $('.hints-box').empty();
             // $('.timer').hide();
             window.open('FinalScore.html');
-            window.close("https://zackariahshone.github.io/marvilousQuiz/index.html");
+            window.close("https://joemay-dev.github.io/WhoDis/");
             
            
             // let finalScore = localStorage.getItem("score");  
